@@ -8,7 +8,7 @@ public class ExercicioAula03Ex4 {
 		// TODO Auto-generated method stub
            Scanner leia = new Scanner(System.in);
 		
-		int numero = 0, soma = 0,quantidade = 0;
+		int numero = 0, soma = 0,quantidade = 0;	
 		
 		do {
 			
@@ -30,9 +30,9 @@ public class ExercicioAula03Ex4 {
 	        }
 
 	        leia.close();
-	    }
-	
-	
+	 }  
 	}
+	
+	
 
 
